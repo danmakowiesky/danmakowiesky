@@ -19,6 +19,10 @@ Hoje dedico o meu tempo a um projeto que tirei do papel, chamado dev de valor, o
   <a href="https://www.linkedin.com/in/daniel-makowiesky/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
  
+  <hr>
+
+ 
+ <h4 align="center"> 💻 Contribuições diárias</h4>
  
  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=danmakowiesky&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
