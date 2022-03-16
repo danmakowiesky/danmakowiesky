@@ -15,3 +15,7 @@
     <a href="https://instagram.com/devdevalor_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/daniel-makowiesky/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+ 
+ 
+ [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=danmakowiesky&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
