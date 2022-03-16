@@ -21,6 +21,7 @@ Hoje dedico o meu tempo a um projeto que tirei do papel, chamado dev de valor, o
  
  
  <hr>
+
  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=danmakowiesky&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
  <hr>
