@@ -21,13 +21,10 @@ Hoje dedico o meu tempo a um projeto que tirei do papel, chamado dev de valor, o
  
   <hr>
 
- <div align="center">
 
- <h4 align="center"> 💻 Contribuições diárias</h4>
- 
+<hr> 
  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=danmakowiesky&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
- </div>
  
  <hr>
 
