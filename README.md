@@ -11,6 +11,7 @@ Hoje dedico o meu tempo a um projeto que tirei do papel, chamado dev de valor, o
 
 
 <hr>
+<hr>
 <div>
  
    <h2 align="center">Where can you find me?</h2>
