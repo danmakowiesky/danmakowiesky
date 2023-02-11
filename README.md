@@ -5,9 +5,6 @@ Um Dev com cerca de 8 anos de carreira, já experimentado e aprovado no campo de
 Hoje dedico o meu tempo a um projeto que tirei do papel, chamado dev de valor, onde por meio dele, presto serviços relacionado a desenvolvimento e manutenção de sistemas a outras empresas e mentoria a novos desenvolvedores que estão entrando no mercado.
 
 
-
-
-<hr>
 <hr>
 <div>
  
@@ -19,7 +16,6 @@ Hoje dedico o meu tempo a um projeto que tirei do papel, chamado dev de valor, o
  
  
  <hr>
-
 
  
  <h4 align="center">🛠️ Tecnologias usadas no dia a dia </h4>
