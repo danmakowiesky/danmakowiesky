@@ -1,6 +1,6 @@
 ## Olá, sou Daniel Makowiesky 
  
-Um Dev com cerca de 9 anos de carreira, já experimentado e aprovado no campo de batalha. Nesses anos, trabalhei com diversas tecnologias, Java, PHP, Javascript ( front, back, mobile ). E justamente na stack JS foi onde me encontrei e decidi focar meus estudos.
+Um Dev com cerca de 10 anos de carreira, já experimentado e aprovado no campo de batalha. Nesses anos, trabalhei com diversas tecnologias, Java, PHP, Javascript ( front, back, mobile ). E justamente na stack JS foi onde me encontrei e decidi focar meus estudos.
 
 Hoje dedico o meu tempo a um projeto que tirei do papel, chamado dev de valor, onde por meio dele, presto serviços relacionado a desenvolvimento e manutenção de sistemas a outras empresas e mentoria a novos desenvolvedores que estão entrando no mercado.
 
